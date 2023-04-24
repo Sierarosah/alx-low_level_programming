@@ -19,6 +19,5 @@ while (m <= 98)
 putchar(m);
 m++;
 }
-putchar('\n');
 return (0);
 }
