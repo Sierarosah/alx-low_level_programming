@@ -16,7 +16,7 @@ n++;
 }
 while (m <= 98)
 {
-putchar(n);
+putchar(m);
 m++;
 }
 putchar('\n');
