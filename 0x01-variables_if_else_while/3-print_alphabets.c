@@ -11,14 +11,14 @@ int m = 65;
 
 while (n <= 122)
 {
-punchar(n);
+putchar(n);
 n++;
 }
 while (m <= 98)
 {
-punchar(n);
+putchar(n);
 m++;
 }
-punchar('\n');
+putchar('\n');
 return (0);
 }
