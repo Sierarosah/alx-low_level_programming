@@ -1,19 +1,18 @@
 #include <stdio.h>
 
 /*
- * mqin - Prints the alphabet.
+ * main - Entry point
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
-	int i;
-
-	for (i = n; i < 26; i++)
-	{
-		putchar(alp[i]);
-}
+int n = 97;
+while (n <= 122)
+{
+putchar(n)n;
+n++;
+{
 putchar('\n');
 return (0);
 }
