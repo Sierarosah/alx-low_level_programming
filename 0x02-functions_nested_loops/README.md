@@ -13,3 +13,8 @@ Write a program that prints _putchar, followed by a new line.
 9-times_table.c
 10-add.c
  11-print_to_98.c
+100-times_table.c
+101-natural.c
+102-fibonacci.c
+103-fibonacci.c
+104-fibonacci.c
